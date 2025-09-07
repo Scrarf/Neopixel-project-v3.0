@@ -8513,7 +8513,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6"
 			(at 229.87 39.37 0)
 			(effects
 				(font
@@ -10385,7 +10385,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm"
 			(at 111.76 172.72 0)
 			(effects
 				(font
@@ -13073,7 +13073,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7051x"
 			(at 142.24 43.18 0)
 			(effects
 				(font
@@ -14086,7 +14086,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_AMASS:AMASS_XT30UPB-M_1x02_P5.0mm_Vertical"
 			(at 27.94 82.55 0)
 			(effects
 				(font
