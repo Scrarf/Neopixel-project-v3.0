@@ -12,6 +12,7 @@
 "D3","G","https://www.lcsc.com/datasheet/C1322328.pdf","LED_SMD:LED_Luminus_MP-3030-1100_3.0x3.0mm","1","0.1589",""
 "D4","B","https://www.lcsc.com/datasheet/C1322329.pdf","LED_SMD:LED_Luminus_MP-3030-1100_3.0x3.0mm","1","0.0962",""
 "D5","SS34","https://www.lcsc.com/datasheet/C8678.pdf","Diode_SMD:D_SMA","1","0.0265",""
+"HS1","Heatsink","https://www.lcsc.com/datasheet/C286191.pdf","22x22x10","1","0.1324",""
 "J1","Conn_01x03_Pin","https://www.lcsc.com/datasheet/C5383112.pdf","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","1","0.0105",""
 "J3","Screw_Terminal_01x02","https://www.lcsc.com/datasheet/C5188442.pdf","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal","1","0.1513",""
 "L1","68µH","https://www.lcsc.com/datasheet/C2929435.pdf","Inductor_SMD:L_Ferrocore_DLG-0504","1","0.052",""
