@@ -4560,7 +4560,7 @@
 		(uuid "36fa4ed4-8836-4a68-adae-bf35b111ded5")
 	)
 	(no_connect
-		(at 172.72 53.34)
+		(at 160.02 40.64)
 		(uuid "3b0cee9f-75a2-46cf-942f-bcfe2f4c7b5c")
 	)
 	(no_connect
@@ -4568,7 +4568,7 @@
 		(uuid "648a6b58-5a9a-489c-b1c6-6ceadda04dc4")
 	)
 	(no_connect
-		(at 175.26 53.34)
+		(at 162.56 40.64)
 		(uuid "6f0d94dc-e1b1-4e47-a78f-932b5a415a56")
 	)
 	(no_connect
@@ -4691,7 +4691,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 50.8) (xy 167.64 50.8)
+			(xy 137.16 38.1) (xy 154.94 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4781,7 +4781,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 60.96) (xy 162.56 60.96)
+			(xy 146.05 48.26) (xy 149.86 48.26)
 		)
 		(stroke
 			(width 0)
@@ -5001,7 +5001,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 48.26) (xy 170.18 48.26)
+			(xy 137.16 35.56) (xy 157.48 35.56)
 		)
 		(stroke
 			(width 0)
@@ -5281,7 +5281,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 45.72) (xy 154.94 39.37)
+			(xy 142.24 33.02) (xy 142.24 26.67)
 		)
 		(stroke
 			(width 0)
@@ -5511,7 +5511,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 50.8) (xy 167.64 53.34)
+			(xy 154.94 38.1) (xy 154.94 40.64)
 		)
 		(stroke
 			(width 0)
@@ -5571,7 +5571,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 66.04) (xy 158.75 60.96)
+			(xy 146.05 53.34) (xy 146.05 48.26)
 		)
 		(stroke
 			(width 0)
@@ -5681,7 +5681,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 48.26) (xy 170.18 53.34)
+			(xy 157.48 35.56) (xy 157.48 40.64)
 		)
 		(stroke
 			(width 0)
@@ -5721,7 +5721,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 45.72) (xy 154.94 45.72)
+			(xy 137.16 33.02) (xy 142.24 33.02)
 		)
 		(stroke
 			(width 0)
@@ -5881,7 +5881,7 @@
 		)
 		(uuid "9af35882-e437-4824-a9ec-35bbe42f33b1")
 	)
-	(text "usb_connector"
+	(text "Programming_pins"
 		(exclude_from_sim no)
 		(at 143.764 16.764 0)
 		(effects
@@ -6137,7 +6137,7 @@
 	)
 	(global_label "USB_D+"
 		(shape input)
-		(at 167.64 53.34 180)
+		(at 154.94 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6147,7 +6147,7 @@
 		)
 		(uuid "61819e03-fa07-442e-babf-60334ecffb54")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 157.0348 53.34 0)
+			(at 144.3348 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6203,7 +6203,7 @@
 	)
 	(global_label "3v3"
 		(shape input)
-		(at 180.34 60.96 0)
+		(at 167.64 48.26 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6213,7 +6213,7 @@
 		)
 		(uuid "6a77844e-bb34-417f-8653-e6a85bf416d4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 186.7118 60.96 0)
+			(at 174.0118 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6489,7 +6489,7 @@
 	)
 	(global_label "USB_D-"
 		(shape input)
-		(at 170.18 48.26 0)
+		(at 157.48 35.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6499,7 +6499,7 @@
 		)
 		(uuid "b99c3fd5-fe97-45a2-b75f-8042c6cdf9a0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 180.7852 48.26 0)
+			(at 168.0852 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6888,7 +6888,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
-		(at 144.78 48.26 0)
+		(at 132.08 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6897,7 +6897,7 @@
 		(fields_autoplaced yes)
 		(uuid "04808c36-153b-473b-bef1-2dfaf3c80365")
 		(property "Reference" "J1"
-			(at 145.415 40.64 0)
+			(at 132.715 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6905,7 +6905,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 145.415 43.18 0)
+			(at 132.715 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6913,7 +6913,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 144.78 48.26 0)
+			(at 132.08 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6922,7 +6922,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 48.26 0)
+			(at 132.08 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6931,7 +6931,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 144.78 48.26 0)
+			(at 132.08 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9644,7 +9644,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 158.75 66.04 0)
+		(at 146.05 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9652,7 +9652,7 @@
 		(dnp no)
 		(uuid "54216a2c-1ee8-49d8-b7dc-5a718e6de258")
 		(property "Reference" "#PWR026"
-			(at 158.75 72.39 0)
+			(at 146.05 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9661,7 +9661,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 160.782 66.294 0)
+			(at 148.082 53.594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9669,7 +9669,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 158.75 66.04 0)
+			(at 146.05 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9678,7 +9678,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 66.04 0)
+			(at 146.05 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9687,7 +9687,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 158.75 66.04 0)
+			(at 146.05 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12481,7 +12481,7 @@
 	)
 	(symbol
 		(lib_id "Power_Protection:USBLC6-4SC6")
-		(at 172.72 60.96 270)
+		(at 160.02 48.26 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12489,7 +12489,7 @@
 		(dnp no)
 		(uuid "c6e91281-7e8d-4740-817d-9b0e4cd1e11b")
 		(property "Reference" "U4"
-			(at 170.18 69.088 90)
+			(at 157.48 56.388 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12498,7 +12498,7 @@
 			)
 		)
 		(property "Value" "USBLC6-4SC6"
-			(at 165.1 66.802 90)
+			(at 152.4 54.102 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12507,7 +12507,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
-			(at 162.56 63.5 0)
+			(at 149.86 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12518,7 +12518,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-4.pdf"
-			(at 160.02 63.5 0)
+			(at 147.32 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12528,7 +12528,7 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 4 data-line, SOT-23-6"
-			(at 172.72 60.96 0)
+			(at 160.02 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13113,7 +13113,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 154.94 39.37 180)
+		(at 142.24 26.67 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13121,7 +13121,7 @@
 		(dnp no)
 		(uuid "e8d5c9d1-3581-4d5e-8925-348da800b828")
 		(property "Reference" "#PWR020"
-			(at 154.94 33.02 0)
+			(at 142.24 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13130,7 +13130,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 152.908 39.116 0)
+			(at 140.208 26.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13138,7 +13138,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 39.37 0)
+			(at 142.24 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13147,7 +13147,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 39.37 0)
+			(at 142.24 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13156,7 +13156,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 154.94 39.37 0)
+			(at 142.24 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
