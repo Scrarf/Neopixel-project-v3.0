@@ -8,6 +8,7 @@
 		(title "Neopixel project")
 		(date "2025-09-10")
 		(rev "3.0")
+		(company "Scrarf")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x03_Pin"
